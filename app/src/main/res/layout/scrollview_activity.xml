@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+   <LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+       <RelativeLayout
+           android:layout_width="wrap_content"
+           android:layout_height="150dp">
+
+
+           <ImageView
+               android:id="@+id/imgsami"
+               android:layout_width="150dp"
+               android:layout_height="130dp"
+               android:layout_alignParentStart="true"
+               android:layout_alignParentTop="true"
+               android:layout_marginEnd="500dp"
+               android:layout_marginBottom="500dp"
+               android:src="@drawable/img_5" />
+
+           <TextView
+               android:id="@+id/txtname"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_marginLeft="190dp"
+               android:layout_marginTop="20dp"
+               android:text="Shradha Kapoor"
+               android:textColor="#FF1493"
+               android:textSize="20sp"
+               android:textStyle="bold" />
+
+           <TextView
+               android:id="@+id/txtsubheader"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_marginLeft="180dp"
+               android:layout_marginTop="50dp"
+               android:padding="10dp"
+               android:text="Actress"
+               android:textColor="#6495ED"
+               android:textSize="17sp"
+               android:textStyle="italic" />
+
+       </RelativeLayout>
+
+       <RelativeLayout
+           android:layout_width="match_parent"
+           android:layout_height="135dp">
+
+           <ImageView
+               android:id="@+id/imgsami2"
+               android:layout_width="150dp"
+               android:layout_height="130dp"
+               android:layout_alignParentStart="true"
+               android:layout_alignParentTop="true"
+               android:layout_marginEnd="500dp"
+               android:layout_marginBottom="500dp"
+               android:src="@drawable/img_6" />
+
+           <TextView
+               android:id="@+id/txtname"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_marginLeft="190dp"
+               android:layout_marginTop="20dp"
+               android:text="Deepika Padukone"
+               android:textColor="#FF1493"
+               android:textSize="20sp"
+               android:textStyle="bold" />
+
+           <TextView
+               android:id="@+id/txtsubheader"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_marginLeft="180dp"
+               android:layout_marginTop="50dp"
+               android:padding="10dp"
+               android:text="Actress"
+               android:textColor="#6495ED"
+               android:textSize="17sp"
+               android:textStyle="italic" />
+
+       </RelativeLayout>
+
+       <RelativeLayout
+           android:layout_width="wrap_content"
+           android:layout_height="140dp">
+
+
+           <ImageView
+               android:id="@+id/imgsami3"
+               android:layout_width="150dp"
+               android:layout_height="130dp"
+               android:layout_alignParentStart="true"
+               android:layout_alignParentTop="true"
+               android:layout_marginStart="2dp"
+               android:layout_marginTop="6dp"
+               android:layout_marginEnd="500dp"
+               android:layout_marginBottom="500dp"
+               android:src="@drawable/img_1" />
+
+           <TextView
+               android:id="@+id/txtname"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_marginLeft="190dp"
+               android:layout_marginTop="20dp"
+               android:text="Anushka Sharama"
+               android:textColor="#FF1493"
+               android:textSize="20sp"
+               android:textStyle="bold" />
+
+           <TextView
+               android:id="@+id/txtsubheader"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_marginLeft="180dp"
+               android:layout_marginTop="50dp"
+               android:padding="10dp"
+               android:text="Bolloywood Actress"
+               android:textColor="#6495ED"
+               android:textSize="17sp"
+               android:textStyle="italic" />
+
+       </RelativeLayout>
+
+       <RelativeLayout
+           android:layout_width="wrap_content"
+           android:layout_height="164dp">
+
+           <ImageView
+               android:id="@+id/imgsami4"
+               android:layout_width="150dp"
+               android:layout_height="130dp"
+               android:layout_alignParentStart="true"
+               android:layout_alignParentTop="true"
+               android:layout_marginStart="4dp"
+               android:layout_marginTop="22dp"
+               android:layout_marginEnd="500dp"
+               android:layout_marginBottom="500dp"
+               android:src="@drawable/img_2" />
+
+           <TextView
+               android:id="@+id/txtname"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_marginLeft="190dp"
+               android:layout_marginTop="20dp"
+               android:text="Kiara Advani"
+               android:textColor="#FF1493"
+               android:textSize="20sp"
+               android:textStyle="bold" />
+
+           <TextView
+               android:id="@+id/txtsubheader"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_marginLeft="180dp"
+               android:layout_marginTop="50dp"
+               android:padding="10dp"
+               android:text="Actress"
+               android:textColor="#6495ED"
+               android:textSize="17sp"
+               android:textStyle="italic" />
+
+       </RelativeLayout>
+
+       <RelativeLayout
+           android:layout_width="wrap_content"
+           android:layout_height="137dp">
+
+
+           <ImageView
+               android:id="@+id/imgsami5"
+               android:layout_width="150dp"
+               android:layout_height="130dp"
+               android:layout_alignParentStart="true"
+               android:layout_alignParentTop="true"
+               android:layout_marginStart="6dp"
+               android:layout_marginTop="5dp"
+               android:layout_marginEnd="500dp"
+               android:layout_marginBottom="500dp"
+               android:src="@drawable/img_3" />
+
+           <TextView
+               android:id="@+id/txtname"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_marginLeft="190dp"
+               android:layout_marginTop="20dp"
+               android:text="Janvi Kapoor"
+               android:textColor="#FF1493"
+               android:textSize="20sp"
+               android:textStyle="bold" />
+
+           <TextView
+               android:id="@+id/txtsubheader"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_marginLeft="180dp"
+               android:layout_marginTop="50dp"
+               android:padding="10dp"
+               android:text="Actress"
+               android:textColor="#6495ED"
+               android:textSize="17sp"
+               android:textStyle="italic" />
+
+       </RelativeLayout>
+       <RelativeLayout
+           android:layout_width="wrap_content"
+           android:layout_height="750dp">
+
+
+           <ImageView
+               android:id="@+id/imgsami6"
+               android:layout_width="150dp"
+               android:layout_height="130dp"
+               android:layout_alignParentStart="true"
+               android:layout_alignParentTop="true"
+               android:layout_marginStart="12dp"
+               android:layout_marginTop="20dp"
+               android:layout_marginEnd="500dp"
+               android:layout_marginBottom="500dp"
+               android:src="@drawable/img_4" />
+
+           <TextView
+               android:id="@+id/txtname"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_marginLeft="190dp"
+               android:layout_marginTop="20dp"
+               android:text="Kriti Sanon"
+               android:textColor="#FF1493"
+               android:textSize="20sp"
+               android:textStyle="bold" />
+
+           <TextView
+               android:id="@+id/txtsubheader"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_marginLeft="170dp"
+               android:layout_marginTop="50dp"
+               android:padding="10dp"
+               android:text="Actress"
+               android:textColor="#6495ED"
+               android:textSize="17sp"
+               android:textStyle="italic" />
+
+       </RelativeLayout>
+
+
+   </LinearLayout>
+   </ScrollView>
+
